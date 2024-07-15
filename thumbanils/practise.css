@@ -1,0 +1,115 @@
+.search{
+  margin-top: 10px;
+  margin-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 7px;
+  padding-right: 50px;
+  border-radius: 4px;
+  border-color: rgb(10, 5, 5);
+  border-width: 1px;
+}
+
+.search2{
+  font-size: 16px;
+  width: 500px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: none;
+  border-radius: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+  }
+
+.email{
+  margin-left: 10px;
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 0;
+}
+
+.search3{
+  width: 300px;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: black;
+  margin-left: 10px;
+  margin-top: 5px;
+  padding-top: 7px;
+  padding-left: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 0;
+}
+
+.privacy{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 0;
+}
+
+.emailbutton{
+  margin-top: 10px;
+  margin-left: 10px;
+  color: white;
+  background-color: #1e7cda;
+  width: 320px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 17px;
+  border: none;
+  border-radius: 30px;
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+
+.pookieimage {
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+
+.text{
+  padding-top: 10px;
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.tweetbutton{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
