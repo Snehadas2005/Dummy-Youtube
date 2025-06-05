@@ -2,6 +2,9 @@
 
 A responsive YouTube clone created using HTML and CSS that replicates the main user interface of YouTube's homepage. This project demonstrates modern web design practices and responsive layout techniques.
 
+## Image
+![Image](https://github.com/user-attachments/assets/af8f9a0d-4e30-4951-8b04-faff231ed6d9)
+
 ## Project Structure 🚀
 ```
 youtube-clone/
